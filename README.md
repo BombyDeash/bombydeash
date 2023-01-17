@@ -13,6 +13,6 @@
 <p><img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=defranco13&show_icons=true&locale=en&layout=compact" alt="defranco13" /></p>
 
 <p>&nbsp;<img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=defranco13&show_icons=true&locale=en" alt="defranco13" /></p>
-
+<br>
 <p align="center" margin=2rem> <img src="https://komarev.com/ghpvc/?username=defranco13&label=Profile%20views&color=0e75b6&style=flat" alt="defranco13" /> </p>
 
