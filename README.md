@@ -12,7 +12,7 @@
 
 
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defranco13&show_icons=true&locale=en" alt="defranco13" /></p>
+<p margin-top="1rem" align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=defranco13&show_icons=true&locale=en" alt="defranco13" /></p>
 
 
 
